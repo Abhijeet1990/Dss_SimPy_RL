@@ -67,7 +67,7 @@ Commad: `conda env create --file environment.yaml`
 
 `CyberPhysicalEnvVisual.py` is the application implementation for the Simpy based and OpenDSS based CyberPhysical combined RL environment.
 
-[User Documentation](https://github.com/Abhijeet1990/Dss_SimPy_RL/) for the Dss_SimPy_RL alongwith the utilization of this RL environment for Adaptive resilience Metric learning using Inverse Reinforcement Learning (ARM_IRL).
+[User Documentation](https://github.com/Abhijeet1990/Dss_SimPy_RL/deployments/activity_log?environment=github-pages) for the Dss_SimPy_RL alongwith the utilization of this RL environment for Adaptive resilience Metric learning using Inverse Reinforcement Learning (ARM_IRL).
 
 
 
