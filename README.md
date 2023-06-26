@@ -1,6 +1,8 @@
 # DSS-SimPy-RL
 Open-DSS and SimPy based Cyber-Physical RL environment
 
+The complete research paper is available under the title [Reinforcement Learning Environment for Cyber-Resilient Power Distribution System](https://ieeexplore.ieee.org/abstract/document/10143194)
+
 Use the `environment.yaml` file to create the conda environment for installing the python packages required in this repository.
 Commad: `conda env create --file environment.yaml`
 
